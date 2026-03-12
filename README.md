@@ -23,7 +23,7 @@ Sou Desenvolvedor **Backend** e **Mobile**, especializado em Java, Spring Boot, 
 
 **Engenheiro de Software Pleno** \
 [**Cidades Inteligentes**](https://www.instagram.com/cidadesinteligentesifbairece/) • \
-Tecnologias: `Java`, `SpringBoot`, `React`, `NextJS`\
+Tecnologias: `Java`, `SpringBoot`, `Flutter`, `React`, `NextJS`\
 Projetos: [Plataforma Digital de Processos](https://plataforma-digital-de-processos.vercel.app/), [Conecta Municípios](#)
 <br/>
 
@@ -40,7 +40,7 @@ Projetos: [Sistema de Gerenciamento de Associações](assistirmain.com.br)
 **Desenvolvedor Mobile Freelancer** \
 [**99Freelas**](https://www.99freelas.com.br/) • \
 Tecnologias: `Flutter`, `Supabase`\
-Projetos: [Meu Café Colonial](https://meu-cafe-colonial.vercel.app/#/sign-in)
+Projetos: [Meu Café Colonial](https://meucafecolonial.com.br/), [Pouco Usado](https://poucousado.com.br/), [GNE Telecom](https://play.google.com/store/apps/details?id=br.com.gnetelecom.gne_telecom),  [Supermercado YPÊ](https://play.google.com/store/apps/details?id=br.com.archcloud.ype.app_supermercado_ype&hl=pt_BR)
 <br/>
 
 
