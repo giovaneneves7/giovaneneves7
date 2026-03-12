@@ -46,7 +46,7 @@ Projetos: [Meu Café Colonial](https://meu-cafe-colonial.vercel.app/#/sign-in)
 
 [<img align="left" height="94px" width="94px" alt="Anunce.com" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJB0ImBidUfDl9wgYB0mnM7a4xu09I4F0ozzz29fgNA&s"/>](https://instagram.com/anuncebrasil)
 
-**Engenheiro de Software Júnior** \
+**Desenvolvedor Mobile** \
 [**Anunce.com**](https://instagram.com/anuncebrasil) • \
 Tecnologias: `Laravel`, `Flutter`, `JavaScript`, `HTML`, `CSS`\
 Projetos: [APP de Entregas (Repositório Privado)](#), [Painel Administrativo (Repositório Privado)](#) 
